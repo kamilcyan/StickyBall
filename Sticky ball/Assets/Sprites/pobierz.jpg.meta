@@ -1,0 +1,1178 @@
+fileFormatVersion: 2
+guid: 71383ae044a33f54da8c188f0b2f5d21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: pobierz_0
+  - first:
+      213: 21300002
+    second: pobierz_1
+  - first:
+      213: 21300004
+    second: pobierz_2
+  - first:
+      213: 21300006
+    second: pobierz_3
+  - first:
+      213: 21300008
+    second: pobierz_4
+  - first:
+      213: 21300010
+    second: pobierz_5
+  - first:
+      213: 21300012
+    second: pobierz_6
+  - first:
+      213: 21300014
+    second: pobierz_7
+  - first:
+      213: 21300016
+    second: pobierz_8
+  - first:
+      213: 21300018
+    second: pobierz_9
+  - first:
+      213: 21300020
+    second: pobierz_10
+  - first:
+      213: 21300022
+    second: pobierz_11
+  - first:
+      213: 21300024
+    second: pobierz_12
+  - first:
+      213: 21300026
+    second: pobierz_13
+  - first:
+      213: 21300028
+    second: pobierz_14
+  - first:
+      213: 21300030
+    second: pobierz_15
+  - first:
+      213: 21300032
+    second: pobierz_16
+  - first:
+      213: 21300034
+    second: pobierz_17
+  - first:
+      213: 21300036
+    second: pobierz_18
+  - first:
+      213: 21300038
+    second: pobierz_19
+  - first:
+      213: 21300040
+    second: pobierz_20
+  - first:
+      213: 21300042
+    second: pobierz_21
+  - first:
+      213: 21300044
+    second: pobierz_22
+  - first:
+      213: 21300046
+    second: pobierz_23
+  - first:
+      213: 21300048
+    second: pobierz_24
+  - first:
+      213: 21300050
+    second: pobierz_25
+  - first:
+      213: 21300052
+    second: pobierz_26
+  - first:
+      213: 21300054
+    second: pobierz_27
+  - first:
+      213: 21300056
+    second: pobierz_28
+  - first:
+      213: 21300058
+    second: pobierz_29
+  - first:
+      213: 21300060
+    second: pobierz_30
+  - first:
+      213: 21300062
+    second: pobierz_31
+  - first:
+      213: 21300064
+    second: pobierz_32
+  - first:
+      213: 21300066
+    second: pobierz_33
+  - first:
+      213: 21300068
+    second: pobierz_34
+  - first:
+      213: 21300070
+    second: pobierz_35
+  - first:
+      213: 21300072
+    second: pobierz_36
+  - first:
+      213: 21300074
+    second: pobierz_37
+  - first:
+      213: 21300076
+    second: pobierz_38
+  - first:
+      213: 21300078
+    second: pobierz_39
+  - first:
+      213: 21300080
+    second: pobierz_40
+  - first:
+      213: 21300082
+    second: pobierz_41
+  - first:
+      213: 21300084
+    second: pobierz_42
+  - first:
+      213: 21300086
+    second: pobierz_43
+  - first:
+      213: 21300088
+    second: pobierz_44
+  - first:
+      213: 21300090
+    second: pobierz_45
+  - first:
+      213: 21300092
+    second: pobierz_46
+  - first:
+      213: 21300094
+    second: pobierz_47
+  - first:
+      213: 21300096
+    second: pobierz_48
+  - first:
+      213: 21300098
+    second: pobierz_49
+  - first:
+      213: 21300100
+    second: pobierz_50
+  - first:
+      213: 21300102
+    second: pobierz_51
+  - first:
+      213: 21300104
+    second: pobierz_52
+  - first:
+      213: 21300106
+    second: pobierz_53
+  - first:
+      213: 21300108
+    second: pobierz_54
+  - first:
+      213: 21300110
+    second: pobierz_55
+  - first:
+      213: 21300112
+    second: pobierz_56
+  - first:
+      213: 21300114
+    second: pobierz_57
+  - first:
+      213: 21300116
+    second: pobierz_58
+  - first:
+      213: 21300118
+    second: pobierz_59
+  - first:
+      213: 21300120
+    second: pobierz_60
+  - first:
+      213: 21300122
+    second: pobierz_61
+  - first:
+      213: 21300124
+    second: pobierz_62
+  - first:
+      213: 21300126
+    second: pobierz_63
+  - first:
+      213: 21300128
+    second: pobierz_64
+  - first:
+      213: 21300130
+    second: pobierz_65
+  - first:
+      213: 21300132
+    second: pobierz_66
+  - first:
+      213: 21300134
+    second: pobierz_67
+  - first:
+      213: 21300136
+    second: pobierz_68
+  - first:
+      213: 21300138
+    second: pobierz_69
+  - first:
+      213: 21300140
+    second: pobierz_70
+  - first:
+      213: 21300142
+    second: pobierz_71
+  - first:
+      213: 21300144
+    second: pobierz_72
+  - first:
+      213: 21300146
+    second: pobierz_73
+  - first:
+      213: 21300148
+    second: pobierz_74
+  - first:
+      213: 21300150
+    second: pobierz_75
+  - first:
+      213: 21300152
+    second: pobierz_76
+  - first:
+      213: 21300154
+    second: pobierz_77
+  - first:
+      213: 21300156
+    second: pobierz_78
+  - first:
+      213: 21300158
+    second: pobierz_79
+  - first:
+      213: 21300160
+    second: pobierz_80
+  - first:
+      213: 21300162
+    second: pobierz_81
+  - first:
+      213: 21300164
+    second: pobierz_82
+  - first:
+      213: 21300166
+    second: pobierz_83
+  - first:
+      213: 21300168
+    second: pobierz_84
+  - first:
+      213: 21300170
+    second: pobierz_85
+  - first:
+      213: 21300172
+    second: pobierz_86
+  - first:
+      213: 21300174
+    second: pobierz_87
+  - first:
+      213: 21300176
+    second: pobierz_88
+  - first:
+      213: 21300178
+    second: pobierz_89
+  - first:
+      213: 21300180
+    second: pobierz_90
+  - first:
+      213: 21300182
+    second: pobierz_91
+  - first:
+      213: 21300184
+    second: pobierz_92
+  - first:
+      213: 21300186
+    second: pobierz_93
+  - first:
+      213: 21300188
+    second: pobierz_94
+  - first:
+      213: 21300190
+    second: pobierz_95
+  - first:
+      213: 21300192
+    second: pobierz_96
+  - first:
+      213: 21300194
+    second: pobierz_97
+  - first:
+      213: 21300196
+    second: pobierz_98
+  - first:
+      213: 21300198
+    second: pobierz_99
+  - first:
+      213: 21300200
+    second: pobierz_100
+  - first:
+      213: 21300202
+    second: pobierz_101
+  - first:
+      213: 21300204
+    second: pobierz_102
+  - first:
+      213: 21300206
+    second: pobierz_103
+  - first:
+      213: 21300208
+    second: pobierz_104
+  - first:
+      213: 21300210
+    second: pobierz_105
+  - first:
+      213: 21300212
+    second: pobierz_106
+  - first:
+      213: 21300214
+    second: pobierz_107
+  - first:
+      213: 21300216
+    second: pobierz_108
+  - first:
+      213: 21300218
+    second: pobierz_109
+  - first:
+      213: 21300220
+    second: pobierz_110
+  - first:
+      213: 21300222
+    second: pobierz_111
+  - first:
+      213: 21300224
+    second: pobierz_112
+  - first:
+      213: 21300226
+    second: pobierz_113
+  - first:
+      213: 21300228
+    second: pobierz_114
+  - first:
+      213: 21300230
+    second: pobierz_115
+  - first:
+      213: 21300232
+    second: pobierz_116
+  - first:
+      213: 21300234
+    second: pobierz_117
+  - first:
+      213: 21300236
+    second: pobierz_118
+  - first:
+      213: 21300238
+    second: pobierz_119
+  - first:
+      213: 21300240
+    second: pobierz_120
+  - first:
+      213: 21300242
+    second: pobierz_121
+  - first:
+      213: 21300244
+    second: pobierz_122
+  - first:
+      213: 21300246
+    second: pobierz_123
+  - first:
+      213: 21300248
+    second: pobierz_124
+  - first:
+      213: 21300250
+    second: pobierz_125
+  - first:
+      213: -2114419221991994261
+    second: pobierz_0
+  - first:
+      213: 3424518382865331475
+    second: pobierz_1
+  - first:
+      213: 3379946214889030191
+    second: pobierz_2
+  - first:
+      213: -5353902317085154900
+    second: pobierz_3
+  - first:
+      213: 1325454731113573026
+    second: pobierz_4
+  - first:
+      213: 3528885891350900358
+    second: pobierz_5
+  - first:
+      213: -1974404937936957364
+    second: pobierz_6
+  - first:
+      213: 6948512645514032040
+    second: pobierz_7
+  - first:
+      213: -5363267572675988714
+    second: pobierz_8
+  - first:
+      213: 873042625657389713
+    second: pobierz_9
+  - first:
+      213: -2454679944557993710
+    second: pobierz_10
+  - first:
+      213: -2717223678161094022
+    second: pobierz_11
+  - first:
+      213: 600504304865605177
+    second: pobierz_12
+  - first:
+      213: 703200956333942649
+    second: pobierz_13
+  - first:
+      213: -8037938462118493876
+    second: pobierz_14
+  - first:
+      213: 4853044411811145924
+    second: pobierz_15
+  - first:
+      213: 2387473114484707227
+    second: pobierz_16
+  - first:
+      213: -8487363701197219291
+    second: pobierz_17
+  - first:
+      213: 7535401586401855633
+    second: pobierz_18
+  - first:
+      213: 8085176596247681253
+    second: pobierz_19
+  - first:
+      213: 1851199323353072741
+    second: pobierz_20
+  - first:
+      213: 7526500895332808450
+    second: pobierz_21
+  - first:
+      213: 445044352042734681
+    second: pobierz_22
+  - first:
+      213: -7592382799181578826
+    second: pobierz_23
+  - first:
+      213: 12255720698487256
+    second: pobierz_24
+  - first:
+      213: -5792851394396891647
+    second: pobierz_25
+  - first:
+      213: -7044773714561538847
+    second: pobierz_26
+  - first:
+      213: -6983595189709964296
+    second: pobierz_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pobierz_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cc8e69be218a2e0800000000000000
+      internalID: -2114419221991994261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 470
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315bb794355568f20800000000000000
+      internalID: 3424518382865331475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 470
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22036abc2bf7ee20800000000000000
+      internalID: 3379946214889030191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 470
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1aff3753e13b5b0800000000000000
+      internalID: -5353902317085154900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 470
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaa2ed2e06f46210800000000000000
+      internalID: 1325454731113573026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 470
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68eabd6750f19f030800000000000000
+      internalID: 3528885891350900358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 470
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c409d777b218994e0800000000000000
+      internalID: -1974404937936957364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a37c21bf631e6060800000000000000
+      internalID: 6948512645514032040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 342
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613b647fe88d195b0800000000000000
+      internalID: -5363267572675988714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 342
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192451874abad1c00800000000000000
+      internalID: 873042625657389713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 342
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211685b88993fedd0800000000000000
+      internalID: -2454679944557993710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 342
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a7def067b7a4ad0800000000000000
+      internalID: -2717223678161094022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_12
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 342
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9367b91db7b655800800000000000000
+      internalID: 600504304865605177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 342
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977eff74b8542c900800000000000000
+      internalID: 703200956333942649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c414af63e81837090800000000000000
+      internalID: -8037938462118493876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 214
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8a2351e2a795340800000000000000
+      internalID: 4853044411811145924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 214
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f08a3f522022120800000000000000
+      internalID: 2387473114484707227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 214
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a58968ea3d63a80800000000000000
+      internalID: -8487363701197219291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 214
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198c56d81df139860800000000000000
+      internalID: 7535401586401855633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 214
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e815a5f641543070800000000000000
+      internalID: 8085176596247681253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 214
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56447ecf9f7c0b910800000000000000
+      internalID: 1851199323353072741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207b8fbefa0837860800000000000000
+      internalID: 7526500895332808450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 86
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9541dc0fa7d1d2600800000000000000
+      internalID: 445044352042734681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 86
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdfefff11072a690800000000000000
+      internalID: -7592382799181578826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 86
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d123b6538a8b2000800000000000000
+      internalID: 12255720698487256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 86
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106d8504958ab9fa0800000000000000
+      internalID: -5792851394396891647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 86
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4ec84a1afeb3e90800000000000000
+      internalID: -7044773714561538847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobierz_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 86
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbf536fc29451f90800000000000000
+      internalID: -6983595189709964296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

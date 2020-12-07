@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - SpikeSpawn
+  - Spike
+  - HealthPotion
+  - Coin
+  - FinishSpot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Coin
+  - Background
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 2539055343
+    locked: 0
+  - name: Enemies
+    uniqueID: 3930516943
+    locked: 0
+  - name: Background
+    uniqueID: 1621467187
+    locked: 0
+  - name: Player
+    uniqueID: 2600400577
+    locked: 0
